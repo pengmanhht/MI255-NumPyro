@@ -1,0 +1,135 @@
+drug,daily dose,frequency,treatment duration,observation duration,surgery,event type,events,n,study,reference,comments
+rivaroxaban,5,bid,5-9 d,5-9 d,tkr,vte,20,63,1,1;4,
+rivaroxaban,10,bid,5-9 d,5-9 d,tkr,vte,23,57,1,1;4,
+rivaroxaban,20,bid,5-9 d,5-9 d,tkr,vte,14,60,1,1;4,
+rivaroxaban,40,bid,5-9 d,5-9 d,tkr,vte,20,57,1,1;4,
+rivaroxaban,60,bid,5-9 d,5-9 d,tkr,vte,15,59,1,1;4,
+enoxaparin,60,bid,5-9 d,5-9 d,tkr,vte,31,70,1,1;4,
+rivaroxaban,5,bid,5-9 d,5-9 d,tkr,major bleed,1,100,1,1;4,
+rivaroxaban,10,bid,5-9 d,5-9 d,tkr,major bleed,0,102,1,1;4,
+rivaroxaban,20,bid,5-9 d,5-9 d,tkr,major bleed,2,103,1,1;4,
+rivaroxaban,40,bid,5-9 d,5-9 d,tkr,major bleed,3,98,1,1;4,
+rivaroxaban,60,bid,5-9 d,5-9 d,tkr,major bleed,8,106,1,1;4,
+enoxaparin,60,bid,5-9 d,5-9 d,tkr,major bleed,2,104,1,1;4,
+rivaroxaban,5,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,2,100,1,1;4,
+rivaroxaban,10,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,3,102,1,1;4,
+rivaroxaban,20,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,1,103,1,1;4,
+rivaroxaban,40,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,5,98,1,1;4
+rivaroxaban,60,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,7,106,1,1;4
+enoxaparin,60,bid,5-9 d,5-9 d,tkr,clinically relevant non-major bleed,3,104,1,1;4
+rivaroxaban,5,bid,5-9 d,5-9 d,tkr,minor bleed,6,100,1,1;4
+rivaroxaban,10,bid,5-9 d,5-9 d,tkr,minor bleed,6,102,1,1;4
+rivaroxaban,20,bid,5-9 d,5-9 d,tkr,minor bleed,6,103,1,1;4
+rivaroxaban,40,bid,5-9 d,5-9 d,tkr,minor bleed,10,98,1,1;4
+rivaroxaban,60,bid,5-9 d,5-9 d,tkr,minor bleed,12,106,1,1;4
+enoxaparin,60,bid,5-9 d,5-9 d,tkr,minor bleed,3,104,1,1;4
+rivaroxaban,5,bid,5-9 d,5-9 d,thr,vte,16,104,2,1;2
+rivaroxaban,10,bid,5-9 d,5-9 d,thr,vte,15,109,2,1;2
+rivaroxaban,20,bid,5-9 d,5-9 d,thr,vte,12,101,2,1;2
+rivaroxaban,40,bid,5-9 d,5-9 d,thr,vte,18,99,2,1;2
+rivaroxaban,60,bid,5-9 d,5-9 d,thr,vte,2,29,2,1;2
+enoxaparin,40,qd,5-9 d,5-9 d,thr,vte,18,106,2,1;2
+rivaroxaban,5,bid,5-9 d,5-9 d,thr,major bleed,1,132,2,1;2
+rivaroxaban,10,bid,5-9 d,5-9 d,thr,major bleed,3,136,2,1;2
+rivaroxaban,20,bid,5-9 d,5-9 d,thr,major bleed,3,133,2,1;2
+rivaroxaban,40,bid,5-9 d,5-9 d,thr,major bleed,6,134,2,1;2
+rivaroxaban,60,bid,5-9 d,5-9 d,thr,major bleed,2,37,2,1;2
+enoxaparin,40,qd,5-9 d,5-9 d,thr,major bleed,2,132,2,1;2
+rivaroxaban,5,bid,5-9 d,5-9 d,thr,clinically relevant non-major bleed,2,132,2,1;2
+rivaroxaban,10,bid,5-9 d,5-9 d,thr,clinically relevant non-major bleed,8,136,2,1;2
+rivaroxaban,20,bid,5-9 d,5-9 d,thr,clinically relevant non-major bleed,3,133,2,1;2
+rivaroxaban,40,bid,5-9 d,5-9 d,thr,clinically relevant non-major bleed,6,134,2,1;2
+rivaroxaban,60,bid,5-9 d,5-9 d,thr,clinically relevant non-major bleed,1,37,2,1;2
+enoxaparin,40,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,0,132,2,1;2
+rivaroxaban,5,bid,5-9 d,5-9 d,thr,minor bleed,4,132,2,1;2
+rivaroxaban,10,bid,5-9 d,5-9 d,thr,minor bleed,6,136,2,1;2
+rivaroxaban,20,bid,5-9 d,5-9 d,thr,minor bleed,11,133,2,1;2
+rivaroxaban,40,bid,5-9 d,5-9 d,thr,minor bleed,14,134,2,1;2
+rivaroxaban,60,bid,5-9 d,5-9 d,thr,minor bleed,1,37,2,1;2
+enoxaparin,40,qd,5-9 d,5-9 d,thr,minor bleed,6,132,2,1;2
+rivaroxaban,5,qd,5-9 d,5-9 d,thr,vte,14,94,3,1;3
+rivaroxaban,10,qd,5-9 d,5-9 d,thr,vte,12,113,3,1;3
+rivaroxaban,20,qd,5-9 d,5-9 d,thr,vte,9,106,3,1;3
+rivaroxaban,30,qd,5-9 d,5-9 d,thr,vte,14,104,3,1;3
+rivaroxaban,40,qd,5-9 d,5-9 d,thr,vte,6,94,3,1;3
+enoxaparin,40,qd,5-9 d,5-9 d,thr,vte,27,107,3,1;3
+rivaroxaban,5,qd,5-9 d,5-9 d,thr,major bleed,3,128,3,1;3
+rivaroxaban,10,qd,5-9 d,5-9 d,thr,major bleed,1,142,3,1;3
+rivaroxaban,20,qd,5-9 d,5-9 d,thr,major bleed,6,139,3,1;3
+rivaroxaban,30,qd,5-9 d,5-9 d,thr,major bleed,7,142,3,1;3
+rivaroxaban,40,qd,5-9 d,5-9 d,thr,major bleed,7,137,3,1;3
+enoxaparin,40,qd,5-9 d,5-9 d,thr,major bleed,3,157,3,1;3
+rivaroxaban,5,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,2,128,3,1;3
+rivaroxaban,10,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,3,142,3,1;3
+rivaroxaban,20,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,1,139,3,1;3
+rivaroxaban,30,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,3,142,3,1;3,
+rivaroxaban,40,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,4,137,3,1;3,
+enoxaparin,40,qd,5-9 d,5-9 d,thr,clinically relevant non-major bleed,5,157,3,1;3,
+rivaroxaban,5,qd,5-9 d,5-9 d,thr,minor bleed,5,128,3,1;3,
+rivaroxaban,10,qd,5-9 d,5-9 d,thr,minor bleed,5,142,3,1;3,
+rivaroxaban,20,qd,5-9 d,5-9 d,thr,minor bleed,6,139,3,1;3,
+rivaroxaban,30,qd,5-9 d,5-9 d,thr,minor bleed,8,142,3,1;3,
+rivaroxaban,40,qd,5-9 d,5-9 d,thr,minor bleed,14,137,3,1;3,
+enoxaparin,40,qd,5-9 d,5-9 d,thr,minor bleed,6,157,3,1;3,
+apixaban,5,qd or bid,10-14 d,10-14 d,tkr,vte,23,214,4,5,# events and n estimated from total n and event rates
+apixaban,10,qd or bid,10-14 d,10-14 d,tkr,vte,18,214,4,5,# events and n estimated from total n and event rates
+apixaban,20,qd or bid,10-14 d,10-14 d,tkr,vte,15,214,4,5,# events and n estimated from total n and event rates
+enoxaparin,60,bid,10-14 d,10-14 d,tkr,vte,33,214,4,5,# events and n estimated from total n and event rates
+apixaban,5,qd or bid,10-14 d,10-14 d,tkr,major bleed,0,214,4,5,# events and n estimated from total n and event rates
+apixaban,20,qd or bid,10-14 d,10-14 d,tkr,major bleed,7,214,4,5,# events and n estimated from total n and event rates
+enoxaparin,60,bid,10-14 d,10-14 d,tkr,major bleed,0,214,4,5,# events and n estimated from total n and event rates
+LY517717,25,qd,5-9 d,5-9 d,thr,vte,4,15,5,6
+LY517717,50,qd,5-9 d,5-9 d,thr,vte,2,10,5,6
+LY517717,75,qd,5-9 d,5-9 d,thr,vte,6,14,5,6
+LY517717,100,qd,5-9 d,5-9 d,thr,vte,4,45,5,6
+LY517717,125,qd,5-9 d,5-9 d,thr,vte,6,57,5,6
+LY517717,150,qd,5-9 d,5-9 d,thr,vte,3,47,5,6
+enoxaparin,40,qd,5-9 d,5-9 d,thr,vte,6,38,5,6
+LY517717,25,qd,5-9 d,5-9 d,tkr,vte,7,11,5,6
+LY517717,50,qd,5-9 d,5-9 d,tkr,vte,6,10,5,6
+LY517717,75,qd,5-9 d,5-9 d,tkr,vte,6,8,5,6
+LY517717,100,qd,5-9 d,5-9 d,tkr,vte,9,24,5,6
+LY517717,125,qd,5-9 d,5-9 d,tkr,vte,9,23,5,6
+LY517717,150,qd,5-9 d,5-9 d,tkr,vte,9,30,5,6
+enoxaparin,40,qd,5-9 d,5-9 d,tkr,vte,8,28,5,6
+LY517717,25,qd,5-9 d,5-9 d,tkr or thr,total bleed,0,32,5,6
+LY517717,50,qd,5-9 d,5-9 d,tkr or thr,total bleed,0,34,5,6
+LY517717,75,qd,5-9 d,5-9 d,tkr or thr,total bleed,0,32,5,6
+LY517717,100,qd,5-9 d,5-9 d,tkr or thr,total bleed,1,106,5,6
+LY517717,125,qd,5-9 d,5-9 d,tkr or thr,total bleed,0,110,5,6
+LY517717,150,qd,5-9 d,5-9 d,tkr or thr,total bleed,1,103,5,6
+enoxaparin,40,qd,5-9 d,5-9 d,tkr or thr,total bleed,2,90,5,6
+LY517717,25,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,32,5,6
+LY517717,50,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,34,5,6
+LY517717,75,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,32,5,6
+LY517717,100,qd,5-9 d,5-9 d,tkr or thr,major bleed,1,106,5,6
+LY517717,125,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,110,5,6
+LY517717,150,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,103,5,6
+enoxaparin,40,qd,5-9 d,5-9 d,tkr or thr,major bleed,0,90,5,6
+razaxaban,50,bid,8-12 d,8-12 d,tkr,vte,8,93,6,7
+razaxaban,100,bid,8-12 d,8-12 d,tkr,vte,5,84,6,7
+razaxaban,150,bid,8-12 d,8-12 d,tkr,vte,3,83,6,7
+razaxaban,200,bid,8-12 d,8-12 d,tkr,vte,1,71,6,7
+enoxaparin,60,bid,8-12 d,8-12 d,tkr,vte,17,107,6,7,
+razaxaban,50,bid,8-12 d,8-12 d,tkr,major bleed,1,147,6,7,
+razaxaban,100,bid,8-12 d,8-12 d,tkr,major bleed,5,123,6,7,
+razaxaban,150,bid,8-12 d,8-12 d,tkr,major bleed,4,115,6,7,
+razaxaban,200,bid,8-12 d,8-12 d,tkr,major bleed,7,121,6,7,
+enoxaparin,60,bid,8-12 d,8-12 d,tkr,major bleed,0,150,6,7,
+YM150,3,qd,7-10 d,7-10 d,thr,vte,16,30,7,8,# events and n estimated from total n and event rates
+YM150,10,qd,7-10 d,7-10 d,thr,vte,12,30,7,8,# events and n estimated from total n and event rates
+YM150,30,qd,7-10 d,7-10 d,thr,vte,7,30,7,8,# events and n estimated from total n and event rates
+YM150,60,qd,7-10 d,7-10 d,thr,vte,6,30,7,8,# events and n estimated from total n and event rates
+enoxaparin,40,qd,7-10 d,7-10 d,thr,vte,12,30,7,8,# events and n estimated from total n and event rates
+YM150,3,qd,7-10 d,7-10 d,thr,major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,10,qd,7-10 d,7-10 d,thr,major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,30,qd,7-10 d,7-10 d,thr,major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,60,qd,7-10 d,7-10 d,thr,major bleed,0,35,7,8,# events and n estimated from total n and event rates
+enoxaparin,40,qd,7-10 d,7-10 d,thr,major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,3,qd,7-10 d,7-10 d,thr,clinically relevant non-major bleed,1,35,7,8,# events and n estimated from total n and event rates
+YM150,10,qd,7-10 d,7-10 d,thr,clinically relevant non-major bleed,2,35,7,8,# events and n estimated from total n and event rates
+YM150,30,qd,7-10 d,7-10 d,thr,clinically relevant non-major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,60,qd,7-10 d,7-10 d,thr,clinically relevant non-major bleed,0,35,7,8,# events and n estimated from total n and event rates
+enoxaparin,40,qd,7-10 d,7-10 d,thr,clinically relevant non-major bleed,0,35,7,8,# events and n estimated from total n and event rates
+YM150,60,qd,7-10 d,7-10 d,thr,minor bleed,8,35,7,8,# events and n estimated from total n and event rates
+enoxaparin,40,qd,7-10 d,7-10 d,thr,minor bleed,8,35,7,8,# events and n estimated from total n and event rates
