@@ -1,6 +1,6 @@
 # MI255-NumPyro
 
-I am trying to rewrite with NumPyro the models in MI255: Exposure-Response Modeling of Categorical, Count, and Time-to-Event Data Using Bayesian Methods.
+With NumPyro, I am trying to rewrite the models in MI255: Exposure-Response Modeling of Categorical, Count, and Time-to-Event Data Using Bayesian Methods.
 
 This project is still underdeveloping. Nice to meet you, passengers.
 
